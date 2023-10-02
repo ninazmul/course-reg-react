@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/yVDJCrN/Rectangle-2.png",
+    "course_name": "Introduction to Python Programming",
+    "credit": 3,
+    "price": 49.99,
+    "description": "Learn the fundamentals of Python programming, including variables, data types, loops, and functions."
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/xHxx7JJ/Rectangle-2-1.png",
+    "course_name": "Web Development Fundamentals",
+    "credit": 4,
+    "price": 79.99,
+    "description": "Build a strong foundation in web development, covering HTML, CSS, and JavaScript."
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/tqgmn9M/Rectangle-3-1.png",
+    "course_name": "Java Programming Mastery",
+    "credit": 5,
+    "price": 99.99,
+    "description": "Master the Java programming language with hands-on projects and in-depth tutorials."
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/129wTSC/Rectangle-2-3.png",
+    "course_name": "Data Science with Python",
+    "credit": 6,
+    "price": 129.99,
+    "description": "Explore data analysis, machine learning, and data visualization using Python."
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/njspV92/Rectangle-2-2.png",
+    "course_name": "Full-Stack Web Development",
+    "credit": 7,
+    "price": 149.99,
+    "description": "Become a full-stack developer by learning both front-end and back-end development technologies."
+  },
+  {
+    "id": 6,
+    "cover": "https://i.ibb.co/pztjygb/Rectangle-2-6.png",
+    "course_name": "Mobile App Development with React Native",
+    "credit": 5,
+    "price": 109.99,
+    "description": "Build cross-platform mobile apps using React Native and JavaScript."
+  },
+  {
+    "id": 7,
+    "cover": "https://i.ibb.co/mvcw2Cb/Rectangle-2-5.png",
+    "course_name": "Machine Learning and AI",
+    "credit": 6,
+    "price": 149.99,
+    "description": "Dive into the world of machine learning and artificial intelligence with this comprehensive course."
+  },
+  {
+    "id": 8,
+    "cover": "https://i.ibb.co/30T3tnF/Rectangle-3.png",
+    "course_name": "Advanced Data Structures and Algorithms",
+    "credit": 4,
+    "price": 89.99,
+    "description": "Master advanced data structures and algorithms to solve complex programming challenges."
+  },
+  {
+    "id": 9,
+    "cover": "https://i.ibb.co/V35V45N/Rectangle-2-4.png",
+    "course_name": "DevOps and Continuous Integration/Continuous Deployment (CI/CD)",
+    "credit": 3,
+    "price": 79.99,
+    "description": "Learn the practices and tools for efficient software development, testing, and deployment."
+  }
+]
